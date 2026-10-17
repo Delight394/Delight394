@@ -18,11 +18,14 @@ Passionate about transforming raw data into actionable business insights and bui
 * 📊 **[Semusim Sales & Customers Dashboard](https://github.com/Delight394/Semusim-Dashboard)**  
   An interactive Power BI report tracking revenue performance, customer metrics, product distributions, and fulfillment metrics.
 
-* 📊 **[Supermart Datasphere Power BI Dashboard](https://github.com/Delight394/Supermart-Datasphere-PowerBI-Dashboard)**  
+* 🏬 **[Supermart Datasphere Power BI Dashboard](https://github.com/Delight394/Supermart-Datasphere-PowerBI-Dashboard)**  
   An interactive Power BI dashboard suite analyzing product performance, customer behavior, sales, and profit across categories, regions, and segments.
 
 * 🛢️ **[SQL Business Query Analysis](https://github.com/Delight394/SQL-Business-Analysis)**  
   Advanced SQL business queries utilizing CTEs, subqueries, complex joins, and stored procedures for data-driven business intelligence.
+
+* 👩‍👦 **[Python Student Performance Analysis](https://github.com/Delight394/Python-Analysis)**  
+  Exploratory data analysis (EDA) using Python, Pandas, and visualization libraries to analyze student performance, demographics, and academic trends.
 
 ---
 
