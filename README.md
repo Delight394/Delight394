@@ -19,6 +19,9 @@ Passionate about transforming raw data into actionable business insights and bui
 * 📊 **[Semusim Sales & Customers Dashboard](https://github.com/Delight394/Semusim-Dashboard)**  
   An interactive Power BI report tracking revenue performance, customer metrics, product distributions, and fulfillment metrics.
 
+* 📊 **[Supermart Datasphere Power BI Dashboard](https://github.com/Delight394/Supermart-Datasphere-PowerBI-Dashboard)**  
+  Built an interactive Power BI dashboard suite analyzing product performance, customer behavior, sales, and profit across categories, regions, and segments to identify key revenue drivers, profitable customer segments, and areas requiring improvement.
+
 ---
 
 📫 **Connect with me:**
