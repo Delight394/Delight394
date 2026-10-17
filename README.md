@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Adeosun Akinloluwa 👋
 
-<!--
-**Delight394/Delight394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst & Aspiring Data Engineer**
 
-Here are some ideas to get you started:
+Passionate about transforming raw data into actionable business insights and building efficient data pipelines. Experienced in visual analytics, cloud platforms, data modeling, database management, and version control workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Skills
+* **Cloud & Modern Analytics:** Microsoft Fabric, AWS
+* **Analytics & Visualization:** Power BI, Power Query, DAX, Excel, Google Sheet
+* **Data Engineering & Querying:** SQL (Subqueries, CTEs, Joins, Stored Procedures)
+* **Programming & Automation:** Python
+* **Version Control & Workflows:** Git, GitHub, VS Code
+
+---
+
+### 📌 Featured Projects
+* 📊 **[Semusim Sales & Customers Dashboard](https://github.com/Delight394/Semusim-Dashboard)**  
+  An interactive Power BI report tracking revenue performance, customer metrics, product distributions, and fulfillment metrics.
+
+---
+
+📫 **Connect with me:**
+* **Personal Blog:** [delightakinloluwa.great-site.net](https://delightakinloluwa.great-site.net)
+* **GitHub:** [Delight394](https://github.com/Delight394)
