@@ -22,5 +22,6 @@ Passionate about transforming raw data into actionable business insights and bui
 ---
 
 📫 **Connect with me:**
+* **LinkedIn:** [Delight Akinloluwa](https://www.linkedin.com/in/delight-akinloluwa)
 * **Personal Blog:** [delightakinloluwa.great-site.net](https://delightakinloluwa.great-site.net)
 * **GitHub:** [Delight394](https://github.com/Delight394)
