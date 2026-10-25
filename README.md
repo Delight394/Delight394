@@ -27,6 +27,8 @@ Passionate about transforming raw data into actionable business insights and bui
 * 👩‍👦 **[Python Student Performance Analysis](https://github.com/Delight394/Python-Analysis)**  
   Exploratory data analysis (EDA) using Python, Pandas, and visualization libraries to analyze student performance, demographics, and academic trends.
 
+* 📈 **[Python Sales Analysis](https://github.com/delight394/Python-Sales-Analysis)**  
+  Exploratory data analysis (EDA) using Jupyter Python, Pandas, and visualization libraries to analyze sales performance, regions, and revenue trends.
 ---
 
 📫 **Connect with me:**
