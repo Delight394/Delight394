@@ -14,22 +14,25 @@ Passionate about transforming raw data into actionable business insights and bui
 * **Version Control & Workflows:** Git, GitHub, VS Code
 
 ---
+---
 ### 📌 Featured Projects
-* 📊 **[Semusim Sales & Customers Dashboard](https://github.com/Delight394/Semusim-Dashboard)**  
+- 💳 **[Credit Card Fraud Detection Using TSQL](https://github.com/Delight394/Card-Fraud-Analysis-Microsoft-Fabric)**  
+  An end-to-end SQL analysis in Microsoft Fabric exploring credit card fraud patterns, transaction trends, data quality, and monthly fraud distribution.
+
+- 📊 **[Semusim Sales & Customers Dashboard](https://github.com/Delight394/Semusim-Dashboard)**  
   An interactive Power BI report tracking revenue performance, customer metrics, product distributions, and fulfillment metrics.
 
-* 🏬 **[Supermart Datasphere Power BI Dashboard](https://github.com/Delight394/Supermart-Datasphere-PowerBI-Dashboard)**  
+- 🏬 **[Supermart Datasphere Power BI Dashboard](https://github.com/Delight394/Supermart-Datasphere-PowerBI-Dashboard)**  
   An interactive Power BI dashboard suite analyzing product performance, customer behavior, sales, and profit across categories, regions, and segments.
 
-* 🛢️ **[SQL Business Query Analysis](https://github.com/Delight394/SQL-Business-Analysis)**  
+- 🛢️ **[SQL Business Query Analysis](https://github.com/Delight394/SQL-Business-Analysis)**  
   Advanced SQL business queries utilizing CTEs, subqueries, complex joins, and stored procedures for data-driven business intelligence.
 
-* 👩‍👦 **[Python Student Performance Analysis](https://github.com/Delight394/Python-Analysis)**  
+- 👩‍👦 **[Python Student Performance Analysis](https://github.com/Delight394/Python-Analysis)**  
   Exploratory data analysis (EDA) using Python, Pandas, and visualization libraries to analyze student performance, demographics, and academic trends.
 
-* 📈 **[Python Sales Analysis](https://github.com/delight394/Python-Sales-Analysis)**  
+- 📈 **[Python Sales Analysis](https://github.com/delight394/Python-Sales-Analysis)**  
   Exploratory data analysis (EDA) using Jupyter Python, Pandas, and visualization libraries to analyze sales performance, regions, and revenue trends.
----
 
 📫 **Connect with me:**
 * **LinkedIn:** [Delight Akinloluwa](https://www.linkedin.com/in/delight-akinloluwa)
