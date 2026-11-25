@@ -7,15 +7,18 @@ Passionate about transforming raw data into actionable business insights and bui
 ---
 
 ### 🛠 Tech Stack & Skills
-* **Cloud & Modern Analytics:** Microsoft Fabric, AWS
-* **Analytics & Visualization:** Power BI, Power Query, DAX, Excel, Google Sheet
-* **Data Engineering & Querying:** SQL (Subqueries, CTEs, Joins, Stored Procedures)
-* **Programming & Automation:** Python
-* **Version Control & Workflows:** Git, GitHub, VS Code
+- **Cloud & Modern Analytics:** Microsoft Fabric, AWS
+- **Analytics & Visualization:** Power BI, Power Query, DAX, Excel, Google Sheet
+- **Data Engineering & Querying:** SQL (Subqueries, CTEs, Joins, Stored Procedures)
+- **Programming & Automation:** Python
+- **Version Control & Workflows:** Git, GitHub, VS Code
 
 ---
 ---
 ### 📌 Featured Projects
+- 🚗 **[Automotive Sales & Booking Dashboard](https://github.com/Delight394/PowerBI-Automotive-Sales-Booking-Dashboard)**  
+  An interactive Power BI dashboard tracking fleet booking performance, revenue, customer satisfaction, payment methods, and seasonal demand across six Toyota vehicle models.
+
 - 💳 **[Credit Card Fraud Detection Using TSQL](https://github.com/Delight394/Card-Fraud-Analysis-Microsoft-Fabric)**  
   An end-to-end SQL analysis in Microsoft Fabric exploring credit card fraud patterns, transaction trends, data quality, and monthly fraud distribution.
 
@@ -35,6 +38,6 @@ Passionate about transforming raw data into actionable business insights and bui
   Exploratory data analysis (EDA) using Jupyter Python, Pandas, and visualization libraries to analyze sales performance, regions, and revenue trends.
 
 📫 **Connect with me:**
-* **LinkedIn:** [Delight Akinloluwa](https://www.linkedin.com/in/delight-akinloluwa)
-* **Personal Blog:** [delightakinloluwa.great-site.net](https://delightakinloluwa.great-site.net)
-* **GitHub:** [Delight394](https://github.com/Delight394)
+- **LinkedIn:** [Delight Akinloluwa](https://www.linkedin.com/in/delight-akinloluwa)
+- **Personal Blog:** [delightakinloluwa.great-site.net](https://delightakinloluwa.great-site.net)
+- **GitHub:** [Delight394](https://github.com/Delight394)
